@@ -1,0 +1,7 @@
+torch
+pretty_midi
+numpy
+pandas
+scikit-learn
+matplotlib
+openpyxl
